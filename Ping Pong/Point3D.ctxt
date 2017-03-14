@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Point3D
+comment0.text=\r\n\ A\ simple\ three-dimensional\ point\ class.\r\n
+comment1.params=x\ y\ z
+comment1.target=Point3D(float,\ float,\ float)
+comment2.params=
+comment2.target=float\ getX()
+comment3.params=
+comment3.target=float\ getY()
+comment4.params=
+comment4.target=float\ getZ()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=o
+comment6.target=Point3D\ midPoint(Point3D)
+comment6.text=\r\n\ Gets\ a\ new\ point\ that\ is\ halfway\ between\ this\ point\ and\ the\ given\ parameter.\r\n
+comment7.params=scale
+comment7.target=Point3D\ scaledCopy(float)
+comment7.text=\r\n\ Gets\ a\ copy\ of\ this\ point\ with\ x,\ y\ and\ z\ scaled\ by\ the\ given\ factor.\r\n
+numComments=8

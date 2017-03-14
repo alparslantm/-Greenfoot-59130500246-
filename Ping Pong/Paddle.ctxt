@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ A\ simple\ paddle\ for\ a\ pong\ game.\ Used\ as\ superclass\ for\ specific\ kinds\ of\ paddle.\r\n\ \r\n\ @author\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=void\ moveLeft()
+comment1.text=\r\n\ Move\ to\ the\ left.\r\n
+comment2.params=
+comment2.target=void\ moveRight()
+comment2.text=\r\n\ Move\ to\ the\ right.\r\n
+numComments=3
